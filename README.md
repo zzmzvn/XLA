@@ -1,8 +1,3 @@
-Tên nhóm: Nhóm 8 - Công Nghệ Xử Lý Ảnh
-Thành viên:
-1. Nguyễn Vũ Phúc - 1571020202
-2. Bùi Khánh Hòa - 1571020112
-3. Lưu Anh Tú - 1571020267
 # 🦆 Duck Hunt - Hand Control 🎯
 
 Trò chơi **Duck Hunt** điều khiển bằng **cử chỉ tay** sử dụng **Mediapipe** và **OpenCV**, xây dựng bằng **Pygame**. Đây là một trò chơi săn vịt hiện đại, nơi bạn dùng **bàn tay thật trước webcam** để di chuyển tâm ngắm, bắn vịt và nạp đạn bằng các cử chỉ.
