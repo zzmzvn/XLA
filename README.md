@@ -74,6 +74,3 @@ numpy
 ![alt text](anhGiaoDien/menu2.png)
 ![alt text](anhGiaoDien/timeMode.png)
 
-## 📜 Giấy phép
-
-MIT License © 2025
